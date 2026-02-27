@@ -86,10 +86,7 @@ The dataset includes:
 
 ## 👤 Author
 
-**Your Name**
+**suman jana**
 Aspiring Data Analyst | Power BI Developer
 
-```
-
-If you'd like, I can also give you a **more advanced, recruiter-focused version** that makes your project stand out stronger on GitHub 🚀
 ```
