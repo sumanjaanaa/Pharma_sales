@@ -33,7 +33,7 @@ The objective of this project is to demonstrate data visualization, business int
 
 ## 📷 Dashboard Screenshot
 
-![Pharma Sales Dashboard](Screenshot 2026-02-26 225834.png)
+![Pharma Sales Dashboard](preview.png)
 
 ## 📂 Dataset Description
 
